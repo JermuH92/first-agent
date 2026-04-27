@@ -35,18 +35,21 @@ This project implements the **ReAct (Reasoning + Acting)** pattern. The agent us
 2. **Set up your environment variables:**
     **Create a `.env` file and add your Gemini API Key:**
 
+    ```bash
     GEMINI_API_KEY=your_api_key_here
 
 3. **Run the agent:**
     **Use the `uv` package manager to run the agent with a prompt:**
 
+    ```bash
     uv run main.py "List the files in the current directory and summarize the content of main.py"
 
 4. **Verbose Mode**
     **To see the agent's internal reasoning and function calls:**
 
+    ```bash
     uv run main.py "your prompt" --verbose
-
+    
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 # What I Learned
