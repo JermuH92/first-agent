@@ -68,5 +68,5 @@ Building this agent provided deep insights into:
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 *Developers note: This project was developed as part of the Boot.dev curriculum, focusing on AI Agents and advanced Python integration.*
-*Developer: Jere Kukkohovi*
-*April 27th, 2026*
+*Developer: Jere Kukkohovi* -
+*Date: April 28th, 2026*
