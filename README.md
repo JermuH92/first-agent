@@ -56,7 +56,7 @@ This project implements the **ReAct (Reasoning + Acting)** pattern. The agent us
 
 Building this agent provided deep insights into:
 
-- **API Schema Design**: Defining strict JSON schemas for LLM tool intergration.
+- **API Schema Design**: Defining strict JSON schemas for LLM tool integration.
 
 - **State Management**: Maintaining conversation context and tool results across multiple API calls.
 
